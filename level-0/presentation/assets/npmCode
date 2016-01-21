@@ -1,0 +1,13 @@
+npm init
+
+npm install
+
+npm uninstall
+
+npm install xx@x.x.x
+
+npm install xx --save-dev
+
+npm outdated
+
+npm update
